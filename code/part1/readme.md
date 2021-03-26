@@ -10,4 +10,3 @@ wait until user is ready
 apply meanshift algorithm to track object inside tracking windows
 
 move mouse cursor according to object movement(Finger tip movement here)
-
