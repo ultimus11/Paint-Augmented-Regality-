@@ -10,3 +10,5 @@ You can also try to implement the MOSSE (Minimum Output Sum of Squared Error) tr
 I found that with practice we can draw better drawings with Augmented Reality.
 
 If you compare this video with https://youtu.be/2oIGuq-uhkQ then you will find that the noise in object tracking is explicitly reduced as I used CSRT instead of mean shift algorithm.
+
+Use test5_clicks.py for clicks and drawing
