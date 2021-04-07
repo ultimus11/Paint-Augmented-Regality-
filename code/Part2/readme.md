@@ -13,4 +13,4 @@ If you compare this video with https://youtu.be/2oIGuq-uhkQ then you will find t
 
 Use test5_clicks.py for clicks and drawing
 
-You can find the latest video in AI series on my youtube channel
+You can find the latest video in AI series on my youtube channel https://youtu.be/cNUTkuVEXp4
